@@ -26,13 +26,18 @@ Este podcast tem como objetivo compartilhar mensagens cristãs edificantes, leit
 
 📦 Como Usar
 
-Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro do link do [Notion](https://www.notion.so/Podcast-Crist-o-1ebe5244ae63804da682f624c7b45efe) fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 🤖 1. Use os prompts de roteiro no chagpt
+
 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+
 🤖 3. Use os prompts de artes no microsoft edige
 
 
 🙏 Propósito
 
-O propósito deste projeto é disseminar a mensagem de Cristo de forma acessível e moderna, aproveitando os recursos tecnológicos atuais para alcançar mais pessoas com a Palavra de Deus.
+O propósito deste projeto é disseminar a mensagem de Cristo de forma acessível e moderna, 
+aproveitando os recursos tecnológicos atuais para alcançar mais pessoas com a Palavra de Deus.
+
+Para ouvir o resultado segue o link no [spotify](https://open.spotify.com/episode/4pt83tGY85FVID4yECd1Lb?si=ixQlYXDLRE6_vDwz3eMqLA) 
